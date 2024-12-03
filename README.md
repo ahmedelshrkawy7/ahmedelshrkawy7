@@ -15,7 +15,6 @@
  
  </div>
 
-**Front-End Skills:**  
 ## 💼 Languages and Tools<br>
 
 
