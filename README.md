@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/ahmadelshrkawy/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://www.facebook.com/ahmad.elshrkawy.9/" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
   <a href="https://x.com/AhmadElshrkawy" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-  <a href="https://www.goodreads.com/user/show/148460223-ramy-al-sabry" target="_blank">![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)</a>
 
  
  </div>
