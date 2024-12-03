@@ -1,6 +1,9 @@
 <div align="center">
 
  <h1 align="center"> Hi there👋! I'm Ahmed Elshrkawy</h1>
+  <h4 align="center">fullstack developer since 2020             cairo, Egypt.<h4>
+ <br>
+
 
 <div align="center">
 
@@ -11,9 +14,6 @@
 
  
  </div>
- <h4 align="center">Welcome to my page!<br>
- I'm Ahmed elshrkawy, a fullstack developer since 2020 from  cairo, Egypt.</h4>
- <br>
 
 **Front-End Skills:**  
 ## 💼 Languages and Tools<br>
