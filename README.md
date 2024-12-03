@@ -1,7 +1,7 @@
 <div align="center">
 
  <h1 align="center"> Hi there👋! I'm Ahmed Elshrkawy</h1>
-  <h4 align="center">fullstack developer since 2020             cairo, Egypt.<h4>
+  <h4 align="center">fullstack developer         cairo, Egypt.<h4>
  <br>
 
 
